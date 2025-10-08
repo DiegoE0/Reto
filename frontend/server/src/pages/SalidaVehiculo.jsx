@@ -27,3 +27,5 @@ export default function SalidaVehiculo() {
     </div>
   );
 }
+
+/*Reto Ganado*/
